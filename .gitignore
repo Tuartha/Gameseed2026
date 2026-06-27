@@ -1,18 +1,64 @@
-# Unity generated files
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Mm]emoryCaptures/
-sysinfo.txt
-*.apk
-*.unitypackage
+bisa ditambahin lagi, supaya mirip seperti list ini yaaw
 
-[Uu]ser[Ss]ettings/
-*.csproj
-*.sln
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# MemoryCaptures
+/[Mm]emory[Cc]aptures/
+
+# Asset meta files - keep these!
+# !/Assets/**/*.meta
+
+# Crash reports
+sysinfo.txt
+crashlytics-build.properties
+
+# Visual Studio
 .vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# JetBrains Rider
 .idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# OS junk
 .DS_Store
+Thumbs.db
+Desktop.ini
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crashlytics
+crashlytics-build.properties
+Assets/StreamingAssets/aa.meta
+Assets/StreamingAssets/aa/
+
+# Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.json*
