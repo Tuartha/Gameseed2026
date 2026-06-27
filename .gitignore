@@ -9,3 +9,10 @@
 sysinfo.txt
 *.apk
 *.unitypackage
+
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+.vs/
+.idea/
+.DS_Store
